@@ -1,0 +1,121 @@
+body {
+    background-color: #D7E9B9;
+    margin: 0;
+    text-align: center;
+   font-family:  Helvetica, Arial,sans-serif;
+
+   
+}
+h1{
+    margin-top: 50px;
+    font-family: Sacramento;
+    font-size: 90px;
+    line-height: 200%;
+    
+
+}
+h2{
+    font-size: 40px;
+    font-weight: normal;
+    padding: 10px;
+}
+hr{
+    border: dotted;
+    color: #41514E;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+a{
+    font-family: Helvetica, Arial,sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+   
+.top {
+    background-color: #61876E;
+    position: relative;
+    padding-top: 100px;
+}
+.middle{
+    margin: 100px 0;
+}
+.bottom{
+    background-color: #61876E;
+    padding:50px 0 20px;
+
+}
+a{
+    color:#D7E9B9;
+}
+
+.contact-me{
+    margin: 40px auto 60px;
+}
+.p{
+    line-height: 2;
+}
+.Aboutme{
+    width: 30%;
+    margin-left: 525px;
+    font-size: 125%;
+    
+}
+
+
+.Bc{
+    position: absolute;
+    left : 300px;
+    top: 300px;
+}
+.Tc{
+    position:absolute;
+    right: 220px;
+    top: 100px;
+}
+.skill-row{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+    line-height: 2;
+}
+.css{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.css1{
+    width: 25%;
+    float: right;
+    margin-left:  30px;
+}
+.buttonClass {
+    font-size:20px;
+    font-family:Helvetica, Arial,sans-serif;
+    width:240px;
+    height:140px;
+    border-width:20px;
+    color:#fff;
+    border-color:#599bb3;
+    font-weight:bold;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    box-shadow: 0px 10px 14px -7px rgba(9, 67, 77, 1);
+    text-shadow: 0px 1px 0px #3d768a;
+    background:linear-gradient(rgba(8, 68, 90, 1), rgba(12, 57, 65, 1));
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(rgba(12, 57, 65, 1), rgba(8, 68, 90, 1));
+    text-decoration: none;
+  }
+  .Cpy{
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+                
+                
